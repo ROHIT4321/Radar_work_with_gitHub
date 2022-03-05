@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print('Rohit going to be rich...!!!!')
     print('First Commit ...!!!')
+    print('Green line shows not commited and current changes...!')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
